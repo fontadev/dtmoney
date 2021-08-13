@@ -16,7 +16,7 @@ createServer({
           title: "Freelance de website",
           type: "deposit",
           category: "Dev",
-          amount: 6000,
+          amount: 1000,
           createdAt: new Date("2021-06-04 03:55:00"),
         },
         {
@@ -24,7 +24,7 @@ createServer({
           title: "Pagamento Fatura Cartão",
           type: "withdraw",
           category: "Fatura",
-          amount: 1100,
+          amount: 500,
           createdAt: new Date("2021-06-04 15:55:00"),
         },
       ],
